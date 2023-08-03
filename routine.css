@@ -1,0 +1,53 @@
+body {
+    font-family: poppins;
+}
+
+table {
+    width: 100%;
+    border: 1.5px solid black;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1.5px solid;
+    text-align: center;
+}
+
+th {
+    background-color: #a55eea;
+    color: rgb(255, 255, 255);
+
+}
+
+span {
+    font-weight: 600;
+}
+
+.lab {
+    border-bottom: 1.5px solid;
+
+}
+
+.odd {
+    background-color: #fa562d;
+    /* background-color: red; */
+
+}
+
+.even {
+    background-color: #e1e3e5;
+    /* background-color: gray; */
+}
+
+.details {
+
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+h2,
+h3 {
+    margin: 0;
+    padding: 0;
+}
